@@ -1,2 +1,2 @@
-# bootstrap-landing-page
-Bootstrap Landing Page Project
+# Bootstrap Landing Page
+
